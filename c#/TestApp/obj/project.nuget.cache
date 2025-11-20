@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLhAvSm4vug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Documents\\c#\\TestApp\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.19\\microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.19\\microsoft.net.illink.tasks.8.0.19.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.19\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

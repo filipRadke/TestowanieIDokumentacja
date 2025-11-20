@@ -1,0 +1,14 @@
+C:\Users\student\Documents\c#\TestApp\bin\Debug\net8.0\Numbers.exe
+C:\Users\student\Documents\c#\TestApp\bin\Debug\net8.0\Numbers.deps.json
+C:\Users\student\Documents\c#\TestApp\bin\Debug\net8.0\Numbers.runtimeconfig.json
+C:\Users\student\Documents\c#\TestApp\bin\Debug\net8.0\Numbers.dll
+C:\Users\student\Documents\c#\TestApp\bin\Debug\net8.0\Numbers.pdb
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.dll
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\refint\Numbers.dll
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.pdb
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+C:\Users\student\Documents\c#\TestApp\obj\Debug\net8.0\ref\Numbers.dll
