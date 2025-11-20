@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/f/kod/TestowanieIDokumentacja/TestowanieIDokumentacja/cpp Select CMakeLists.txt
