@@ -1,13 +1,13 @@
 ﻿#include <iostream>
 using namespace std;
 
-bool isDivisible(int x, int y) {
+bool isDivisible(unsigned int x,unsigned int y) {
     if (y == 0) return false;
     if (x % y == 0) return true;
     return false;
 }
 
-bool isPrime(int x) {
+bool isPrime(unsigned int x) {
     if(x <= 1) return false;
     for (int i = 2; i * i <= x; i++) {
         if(x % i == 0) return false;
@@ -15,10 +15,10 @@ bool isPrime(int x) {
     return true;
 }
 
-int summed(int x, int y) {
+int summed(unsigned int x, unsigned int y) {
     int len = 10;
     while (1) {
-        if(len <= y) len*=10;
+        if(len < y) len*=10;
         else break;
     }
     x *= len;

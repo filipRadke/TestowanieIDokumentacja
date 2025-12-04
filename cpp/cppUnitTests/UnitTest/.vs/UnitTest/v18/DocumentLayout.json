@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA75DABB-EFD2-AF45-6C6B-06F8EDC91DA5}|UnitTest.vcxproj|C:\\Users\\F\\kod\\TestowanieIDokumentacja\\cpp\\cppUnitTests\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA75DABB-EFD2-AF45-6C6B-06F8EDC91DA5}|UnitTest.vcxproj|solutionrelative:UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA75DABB-EFD2-AF45-6C6B-06F8EDC91DA5}|UnitTest.vcxproj|C:\\USERS\\F\\KOD\\TESTOWANIEIDOKUMENTACJA\\CPP\\CPPUNITTESTS\\TESTAPP\\TESTAPP.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestApp.cpp",
-              "DocumentMoniker": "C:\\Users\\F\\kod\\TestowanieIDokumentacja\\cpp\\cppUnitTests\\TestApp\\TestApp.cpp",
-              "RelativeDocumentMoniker": "..\\TestApp\\TestApp.cpp",
-              "ToolTip": "C:\\Users\\F\\kod\\TestowanieIDokumentacja\\cpp\\cppUnitTests\\TestApp\\TestApp.cpp",
-              "RelativeToolTip": "..\\TestApp\\TestApp.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-20T11:53:07.77Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -39,7 +24,7 @@
               "RelativeDocumentMoniker": "UnitTest.cpp",
               "ToolTip": "C:\\Users\\F\\kod\\TestowanieIDokumentacja\\cpp\\cppUnitTests\\UnitTest\\UnitTest.cpp",
               "RelativeToolTip": "UnitTest.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-20T09:34:30.653Z",
               "EditorCaption": ""

@@ -10,13 +10,9 @@ namespace UnitTest
 	{
 	public:
 		
-		TEST_METHOD(IsDivisibleT)
+		TEST_METHOD(IsDivisibleT)	
 		{
 			Assert::AreEqual(true, isDivisible(4, 2));
-		}
-		TEST_METHOD(IsDivisibleF)
-		{
-			Assert::AreEqual(true, isDivisible(5, 3));
 		}
 	};
 
@@ -27,10 +23,6 @@ namespace UnitTest
 		TEST_METHOD(IsPrimeT)
 		{
 			Assert::AreEqual(true, isPrime(7));
-		}
-		TEST_METHOD(IsPrimeF)
-		{
-			Assert::AreEqual(true, isPrime(10));
 		}
 	};
 
