@@ -1,8 +1,0 @@
-﻿  UnitTest.cpp
-C:\Users\F\kod\TestowanieIDokumentacja\cpp\cppUnitTests\TestApp\TestApp.cpp(12,27): warning C4018: '<=': signed/unsigned mismatch
-  (compiling source file '/UnitTest.cpp')
-  
-C:\Users\F\kod\TestowanieIDokumentacja\cpp\cppUnitTests\TestApp\TestApp.cpp(21,16): warning C4018: '<': signed/unsigned mismatch
-  (compiling source file '/UnitTest.cpp')
-  
-  UnitTest.vcxproj -> C:\Users\F\kod\TestowanieIDokumentacja\cpp\cppUnitTests\UnitTest\x64\Debug\UnitTest.dll
